@@ -1,30 +1,48 @@
-StringLength.java
- StringLength
-GreatestOfThreeNumbers.java
- GreatestOfThreeNumbers
-SortArray.java
- SortArray
-ArraySegmentValue.java
- ArraySegmentValue
-FindMinandMax.java
- FindMinandMax
-ReverseAnArray.java
- ReverseAnArray
-KthSmallestElement.java
- KthSmallestElement
-OccurenceOfAnElement.java
- OccurenceOfAnElement
-ReverseString.java
- ReverseString
-SonyTV.java
- SonyTV
 AbstractTVBase.java
  AbstractTVBase
-VizioTV.java
- VizioTV
-FindDistinctElement.java
- FindDistinctElement
-MoveToNegativeNumbersToOneEnd.java
- MoveToNegativeNumbersToOneEnd
 UnionAndIntersectionArray.java
  UnionAndIntersectionArray
+GreatestOfThreeNumbers.java
+ GreatestOfThreeNumbers
+FindMinandMax.java
+ FindMinandMax
+FindDistinctElement.java
+ FindDistinctElement
+OccurenceOfAnElement.java
+ OccurenceOfAnElement
+KthSmallestElement.java
+ KthSmallestElement
+ArraySegmentValue.java
+ ArraySegmentValue
+MoveToNegativeNumbersToOneEnd.java
+ MoveToNegativeNumbersToOneEnd
+ReverseString.java
+ ReverseString
+VizioTV.java
+ VizioTV
+StringLength.java
+ StringLength
+SortArray.java
+ SortArray
+SonyTV.java
+ SonyTV
+ReverseAnArray.java
+ ReverseAnArray
+ArrayIndexSum.java
+ ArrayIndexSum
+BestDayBuySellStock.java
+ BestDayBuySellStock
+ParenthesisValid.java
+ ParenthesisValid
+GenericType.java
+ GenericType
+Fibonacci.java
+ Fibonacci
+EuclideanAlgo.java
+ EuclideanAlgo
+BinaryGap.java
+ BinaryGap
+testJava.java
+ testJava
+SolutionCO.java
+ SolutionCO
