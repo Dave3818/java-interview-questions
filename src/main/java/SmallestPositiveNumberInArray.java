@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class testJava {
+public class SmallestPositiveNumberInArray {
 
 
         public int solution(int[] A) {
@@ -43,7 +43,7 @@ public class testJava {
     }
 
     public static void main (String[] args){
-            testJava testJava = new testJava();
+            SmallestPositiveNumberInArray testJava = new SmallestPositiveNumberInArray();
             testJava.solution(new int[]{1, 3, 4 });
     }
 
